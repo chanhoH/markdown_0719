@@ -1,6 +1,7 @@
 # markdown_0719
 markdown_0719
 
+![로고](https://github.com/chanhoH/markdown_0719/blob/main/logo.png"수업자료 링크")
 ### 7. 하이퍼 링크
 
 
